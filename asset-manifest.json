@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ktsushilofficial/orbix-website/static/css/main.5032f215.css",
-    "main.js": "/ktsushilofficial/orbix-website/static/js/main.279d79e0.js",
-    "static/js/787.7a686c62.chunk.js": "/ktsushilofficial/orbix-website/static/js/787.7a686c62.chunk.js",
-    "static/media/backendim.png": "/ktsushilofficial/orbix-website/static/media/backendim.7950acb6beaf745ca76c.png",
-    "static/media/web.jpg": "/ktsushilofficial/orbix-website/static/media/web.91e3055a61cf88e4405b.jpg",
-    "static/media/desktop.png": "/ktsushilofficial/orbix-website/static/media/desktop.f0861a529995861e7510.png",
-    "static/media/mob.png": "/ktsushilofficial/orbix-website/static/media/mob.18229eaafd7ce2fdb15c.png",
-    "static/media/2.png": "/ktsushilofficial/orbix-website/static/media/2.46b7cea4c2a32a2ff6db.png",
-    "index.html": "/ktsushilofficial/orbix-website/index.html",
-    "main.5032f215.css.map": "/ktsushilofficial/orbix-website/static/css/main.5032f215.css.map",
-    "main.279d79e0.js.map": "/ktsushilofficial/orbix-website/static/js/main.279d79e0.js.map",
-    "787.7a686c62.chunk.js.map": "/ktsushilofficial/orbix-website/static/js/787.7a686c62.chunk.js.map"
+    "main.css": "/OrbixWebsite/static/css/main.5032f215.css",
+    "main.js": "/OrbixWebsite/static/js/main.c03646db.js",
+    "static/js/787.7a686c62.chunk.js": "/OrbixWebsite/static/js/787.7a686c62.chunk.js",
+    "static/media/backendim.png": "/OrbixWebsite/static/media/backendim.7950acb6beaf745ca76c.png",
+    "static/media/web.jpg": "/OrbixWebsite/static/media/web.91e3055a61cf88e4405b.jpg",
+    "static/media/desktop.png": "/OrbixWebsite/static/media/desktop.f0861a529995861e7510.png",
+    "static/media/mob.png": "/OrbixWebsite/static/media/mob.18229eaafd7ce2fdb15c.png",
+    "static/media/2.png": "/OrbixWebsite/static/media/2.46b7cea4c2a32a2ff6db.png",
+    "index.html": "/OrbixWebsite/index.html",
+    "main.5032f215.css.map": "/OrbixWebsite/static/css/main.5032f215.css.map",
+    "main.c03646db.js.map": "/OrbixWebsite/static/js/main.c03646db.js.map",
+    "787.7a686c62.chunk.js.map": "/OrbixWebsite/static/js/787.7a686c62.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5032f215.css",
-    "static/js/main.279d79e0.js"
+    "static/js/main.c03646db.js"
   ]
 }
