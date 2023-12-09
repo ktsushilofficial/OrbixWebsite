@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OrbixWebsite/static/css/main.5032f215.css",
-    "main.js": "/OrbixWebsite/static/js/main.fae0119f.js",
+    "main.js": "/OrbixWebsite/static/js/main.069efca1.js",
     "static/js/787.7a686c62.chunk.js": "/OrbixWebsite/static/js/787.7a686c62.chunk.js",
     "static/media/backendim.png": "/OrbixWebsite/static/media/backendim.7950acb6beaf745ca76c.png",
     "static/media/web.jpg": "/OrbixWebsite/static/media/web.91e3055a61cf88e4405b.jpg",
@@ -10,11 +10,11 @@
     "static/media/2.png": "/OrbixWebsite/static/media/2.46b7cea4c2a32a2ff6db.png",
     "index.html": "/OrbixWebsite/index.html",
     "main.5032f215.css.map": "/OrbixWebsite/static/css/main.5032f215.css.map",
-    "main.fae0119f.js.map": "/OrbixWebsite/static/js/main.fae0119f.js.map",
+    "main.069efca1.js.map": "/OrbixWebsite/static/js/main.069efca1.js.map",
     "787.7a686c62.chunk.js.map": "/OrbixWebsite/static/js/787.7a686c62.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5032f215.css",
-    "static/js/main.fae0119f.js"
+    "static/js/main.069efca1.js"
   ]
 }
